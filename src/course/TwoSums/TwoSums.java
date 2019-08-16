@@ -1,9 +1,8 @@
-package course.twoSums;
+package course.TwoSums;
 import java.util.Arrays;
-import java.util.*;
 
 
-public class twoSums {
+public class TwoSums {
     public static void main(String[] args){
         int[] array1 = new int[]{2,4,7,9,10};
         int target = 11;

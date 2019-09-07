@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be6f45c5-8101-4ec7-8d18-a9a0f64660aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,13 +50,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise1And2">
+  <component name="RunManager" selected="Application.VariablesNameRulesAndBestPractices">
+    <configuration name="CharsBooleanAndStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.Variables.CharsBooleanAndStrings" />
+      <module name="repos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercise1And2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.Exercise1And2" />
       <module name="repos" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManipulationIntVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.Variables.ManipulationIntVariables" />
+      <module name="repos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.Variables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="course.TwoSums.TwoSums" />
+    <configuration name="VariablesIntExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.Variables.VariablesIntExample" />
       <module name="repos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="course.TwoSums.*" />
+          <option name="PATTERN" value="course.Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariablesNameRulesAndBestPractices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.Variables.VariablesNameRulesAndBestPractices" />
+      <module name="repos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.Variables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,31 +130,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="course.HelloWorld.program" />
-      <module name="repos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="course.HelloWorld.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.casting" />
       <item itemvalue="Application.Saída de dados" />
-      <item itemvalue="Application.program" />
-      <item itemvalue="Application.TwoSums" />
       <item itemvalue="Application.Exercise1And2" />
+      <item itemvalue="Application.VariablesIntExample" />
+      <item itemvalue="Application.ManipulationIntVariables" />
+      <item itemvalue="Application.CharsBooleanAndStrings" />
+      <item itemvalue="Application.VariablesNameRulesAndBestPractices" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VariablesNameRulesAndBestPractices" />
+        <item itemvalue="Application.CharsBooleanAndStrings" />
+        <item itemvalue="Application.ManipulationIntVariables" />
+        <item itemvalue="Application.VariablesIntExample" />
         <item itemvalue="Application.Exercise1And2" />
-        <item itemvalue="Application.TwoSums" />
-        <item itemvalue="Application.program" />
       </list>
     </recent_temporary>
   </component>

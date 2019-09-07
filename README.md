@@ -15,3 +15,7 @@
 ###\n - new line
 ###\t - tab
 ###\b - backspace
+
+# Variables
+###Operations -> + - / * ()
+###Assignment operator -> =

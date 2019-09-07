@@ -11,7 +11,7 @@
 | Float | IEEE 754 floating point | 0.0 | 32 bits | +-1.4E-45 to +-3.4028235E+38
 | Double | IEEE 754 floating point | 0.0 | 64 bits | +-4.9E-324 to +- 1.7976931348623157E+308 |
 
-# Formating Text
+# Formatting Text
 ###\n - new line
 ###\t - tab
 ###\b - backspace

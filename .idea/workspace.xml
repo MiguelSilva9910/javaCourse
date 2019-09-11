@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="be6f45c5-8101-4ec7-8d18-a9a0f64660aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/repos/course/Inputs/ReadInputsWithScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/repos/course/Inputs/ReadInputsWithScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/course/Inputs/ReadInputsWithScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Inputs/ReadInputsWithScanner.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,22 +49,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadInputsWithScanner">
+  <component name="RunManager" selected="Application.getTokensWithScanner">
     <configuration name="CharsBooleanAndStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="course.Variables.CharsBooleanAndStrings" />
-      <module name="repos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="course.Variables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManipulationIntVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="course.Variables.ManipulationIntVariables" />
       <module name="repos" />
       <extension name="coverage">
         <pattern>
@@ -131,22 +116,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="getTokensWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.Inputs.getTokensWithScanner" />
+      <module name="repos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.Inputs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.casting" />
       <item itemvalue="Application.Saída de dados" />
-      <item itemvalue="Application.ManipulationIntVariables" />
       <item itemvalue="Application.CharsBooleanAndStrings" />
       <item itemvalue="Application.VariablesNameRulesAndBestPractices" />
       <item itemvalue="Application.ReadInputsWithScanner" />
       <item itemvalue="Application.formatInputs" />
+      <item itemvalue="Application.getTokensWithScanner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.getTokensWithScanner" />
         <item itemvalue="Application.ReadInputsWithScanner" />
         <item itemvalue="Application.formatInputs" />
         <item itemvalue="Application.VariablesNameRulesAndBestPractices" />
         <item itemvalue="Application.CharsBooleanAndStrings" />
-        <item itemvalue="Application.ManipulationIntVariables" />
       </list>
     </recent_temporary>
   </component>

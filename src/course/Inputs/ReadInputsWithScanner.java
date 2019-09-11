@@ -27,5 +27,10 @@ public class ReadInputsWithScanner {
         System.out.println("How tall are you ?");
         double height = sc.nextDouble();
         System.out.println("I have "+ height + " metres");
+        double averageMaleHeightDifference = height - 1.75;
+        double averageFemaleHeightDifference = height - 1.62;
+        System.out.println("\n The differente between your height and the difference is: ");
+        System.out.format("%.2f meters if you are male ", averageMaleHeightDifference);
+        System.out.format("\n %.2f meters if you are female ", averageFemaleHeightDifference);
     }
 }

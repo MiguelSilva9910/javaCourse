@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="be6f45c5-8101-4ec7-8d18-a9a0f64660aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/repos/course/Inputs/ReadInputsWithScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/repos/course/Inputs/ReadInputsWithScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/course/Inputs/ReadInputsWithScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/course/Inputs/ReadInputsWithScanner.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.formatInputs">
+  <component name="RunManager" selected="Application.ReadInputsWithScanner">
     <configuration name="CharsBooleanAndStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="course.Variables.CharsBooleanAndStrings" />
       <module name="repos" />
@@ -140,8 +142,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.formatInputs" />
         <item itemvalue="Application.ReadInputsWithScanner" />
+        <item itemvalue="Application.formatInputs" />
         <item itemvalue="Application.VariablesNameRulesAndBestPractices" />
         <item itemvalue="Application.CharsBooleanAndStrings" />
         <item itemvalue="Application.ManipulationIntVariables" />
